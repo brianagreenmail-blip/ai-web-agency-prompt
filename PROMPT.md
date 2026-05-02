@@ -10,8 +10,8 @@ This is not a simulation. Use real data. Build real sites. Every output should b
 
 | Setting | Value |
 |---------|-------|
-| **Target Area** | `[ENTER YOUR CITY / NEIGHBORHOOD — e.g., Santa Monica, CA]` |
-| **Radius** | 5-10 miles from center |
+| **Target Area** | `Baltimore,MD` |
+| **Radius** | 10-25 miles from center |
 | **Leads Per Run** | 10-20 qualified (quality over quantity) |
 | **Site Standard** | Premium — every site should look like a $5,000 agency build |
 
